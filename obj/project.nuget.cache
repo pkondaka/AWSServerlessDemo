@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "lamod5H/DnLqPUb9ppQca0cq6Z3UNUDG4h0BU3gIxM/h5YghRuDxP9O7pXSkJefAdulMdNk2O5TU48yv9s9sew==",
+  "success": true,
+  "projectFilePath": "C:\\Kondaka\\work\\AWS\\DOTNET\\AWSServerlessDemo\\AWSServerlessDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kondaka\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.1.0\\amazon.lambda.apigatewayevents.2.1.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\awssdk.apigateway\\3.3.104.27\\awssdk.apigateway.3.3.104.27.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\awssdk.core\\3.3.107.35\\awssdk.core.3.3.107.35.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\awssdk.dynamodbv2\\3.3.106.42\\awssdk.dynamodbv2.3.3.106.42.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.3.101\\awssdk.extensions.netcore.setup.3.3.101.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\awssdk.lambda\\3.3.110.24\\awssdk.lambda.3.3.110.24.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.0.0\\microsoft.extensions.configuration.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\nlog\\4.7.3\\nlog.4.7.3.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512",
+    "C:\\Users\\kondaka\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

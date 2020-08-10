@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateRuntimeConfigurationFiles>true</GenerateRuntimeConfigurationFiles>
+    <AWSProjectType>Lambda</AWSProjectType>
+  </PropertyGroup>
+  <ItemGroup>
+	 
+	  <PackageReference Include="AWSSDK.Core" Version="3.3.107.35" />
+    <PackageReference Include="Amazon.Lambda.APIGatewayEvents" Version="2.1.0" />
+    <PackageReference Include="Amazon.Lambda.Core" Version="1.1.0" />
+    <PackageReference Include="Amazon.Lambda.Serialization.SystemTextJson" Version="2.0.0" />
+    <PackageReference Include="AWSSDK.APIGateway" Version="3.3.104.27" />
+	<PackageReference Include="AWSSDK.DynamoDBv2" Version="3.3.106.42" />
+	<PackageReference Include="AWSSDK.Lambda" Version="3.3.110.24" />
+	  <PackageReference Include="AWSSDK.Extensions.NETCore.Setup" Version="3.3.101" />
+	  <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+	  <PackageReference Include="NLog" Version="4.7.3" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUi" Version="5.5.1" />
+
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kondaka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kondaka\\.nuget\\packages"
+    ]
+  }
+}

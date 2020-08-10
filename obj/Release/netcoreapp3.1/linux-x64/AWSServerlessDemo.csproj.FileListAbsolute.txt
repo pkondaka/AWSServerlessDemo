@@ -1,0 +1,12 @@
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\bin\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.deps.json
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\bin\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.runtimeconfig.json
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\bin\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.runtimeconfig.dev.json
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\bin\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.dll
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\bin\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.pdb
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.csprojAssemblyReference.cache
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.AssemblyInfoInputs.cache
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.AssemblyInfo.cs
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.csproj.CoreCompileInputs.cache
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.dll
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.pdb
+C:\Kondaka\work\AWS\DOTNET\AWSServerlessDemo\obj\Release\netcoreapp3.1\linux-x64\AWSServerlessDemo.genruntimeconfig.cache
